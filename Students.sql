@@ -1,0 +1,6 @@
+﻿CREATE TABLE Students
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Name] VARCHAR(50) NOT NULL, 
+    [Age] SMALLINT NOT NULL
+)
